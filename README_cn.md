@@ -1,10 +1,9 @@
-WeUI 为微信 Web 服务量身设计
+非原创，拿的WeUI进行修改的，学习使用。查看原版请按下面说明移步
 ====
 
 [![Build Status](https://travis-ci.org/Tencent/weui.svg?branch=master)](https://travis-ci.org/Tencent/weui)
 [![npm version](https://img.shields.io/npm/v/weui.svg)](https://www.npmjs.org/package/weui)
 
-[English version](README.md)
 
 ## 概述
 
@@ -28,11 +27,4 @@ WeUI 是一套同微信原生视觉体验一致的基础样式库，由微信官
 - [weui.js](https://github.com/weui/weui.js/)
 - [react-weui](https://github.com/weui/react-weui/)
 
-## License
-The MIT License(http://opensource.org/licenses/MIT)
 
-请自由地享受和参与开源
-
-## 贡献
-
-如果你有好的意见或建议，欢迎给我们提issue或pull request，为提升微信web体验贡献力量
